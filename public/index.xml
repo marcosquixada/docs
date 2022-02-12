@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>API Documentation</title>
+    <link>https://marcosquixada.github.io/docs/</link>
+    <description>Recent content on API Documentation</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 12 Feb 2022 12:19:19 -0300</lastBuildDate><atom:link href="https://marcosquixada.github.io/docs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>New features</title>
+      <link>https://marcosquixada.github.io/docs/posts/my-first-post/</link>
+      <pubDate>Sat, 12 Feb 2022 12:19:19 -0300</pubDate>
+      
+      <guid>https://marcosquixada.github.io/docs/posts/my-first-post/</guid>
+      <description>hey bla bla bla</description>
+    </item>
+    
+    <item>
+      <title>Your Page</title>
+      <link>https://marcosquixada.github.io/docs/your-page/</link>
+      <pubDate>Sat, 12 Feb 2022 12:19:18 -0300</pubDate>
+      
+      <guid>https://marcosquixada.github.io/docs/your-page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://marcosquixada.github.io/docs/about/about/</link>
+      <pubDate>Sat, 12 Feb 2022 10:53:43 -0300</pubDate>
+      
+      <guid>https://marcosquixada.github.io/docs/about/about/</guid>
+      <description>hey bla bla bla</description>
+    </item>
+    
+    <item>
+      <title>About</title>
+      <link>https://marcosquixada.github.io/docs/getting-started/getting-started/</link>
+      <pubDate>Sat, 12 Feb 2022 10:53:43 -0300</pubDate>
+      
+      <guid>https://marcosquixada.github.io/docs/getting-started/getting-started/</guid>
+      <description>hey bla bla bla</description>
+    </item>
+    
+  </channel>
+</rss>
