@@ -2,7 +2,7 @@ baseURL = 'https://marcosquixada.github.io/docs/'
 languageCode = 'en-us'
 title = 'API Documentation'
 theme = "beautifulhugo"
-sectionPagesMenu = 'main'
+pluralizelisttitles = false
 [menu]
 [[menu.main]]
   identifier = 'about'
@@ -16,4 +16,11 @@ sectionPagesMenu = 'main'
   post = "<span class='alert'>New!</span>"
   pre = "<i class='fa fa-road'></i>"
   url = 'getting-started/'
+  weight = -100
+[[menu.main]]
+  name = 'contact'
+  identifier = 'contact'
+  post = "<span class='alert'>New!</span>"
+  pre = "<i class='fa fa-road'></i>"
+  url = 'contact/'
   weight = -100

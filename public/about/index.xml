@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on API Documentation</title>
+    <title>About on API Documentation</title>
     <link>https://marcosquixada.github.io/docs/about/</link>
-    <description>Recent content in Abouts on API Documentation</description>
+    <description>Recent content in About on API Documentation</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sat, 12 Feb 2022 10:53:43 -0300</lastBuildDate><atom:link href="https://marcosquixada.github.io/docs/about/index.xml" rel="self" type="application/rss+xml" />
